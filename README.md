@@ -4,8 +4,8 @@ This is a simple CRM (Customer Relationship Management) Dashboard made using Rea
 
 ## Login Credentials
 
-Username: singh /n
-Password: singh 
+#Username: "singh" 
+#Password: "singh" 
 
 # Once after entering login username and password if you are unable to login then login again.
 
